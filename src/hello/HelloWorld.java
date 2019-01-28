@@ -7,6 +7,7 @@ public class HelloWorld {
     PrintWriter pen = new PrintWriter(System.out, true);
     pen.println("Hello, GitHub!");
     pen.println("Adding things on GitHub.");
+    pen.println("Another line");
     pen.flush();
   }
 }
